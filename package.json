@@ -1,0 +1,23 @@
+{
+  "name": "caffeinatr",
+  "version": "0.0.1",
+  "description": "An API for caffeine!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoDuck-Purdue/Caffeinatr.git"
+  },
+  "author": "TwoDuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwoDuck-Purdue/Caffeinatr/issues"
+  },
+  "homepage": "https://github.com/TwoDuck-Purdue/Caffeinatr#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pg": "^6.1.0"
+  }
+}
