@@ -4,6 +4,7 @@ var db = require("./db");
 
 app.get("/", function(req, res) {
     res.send("Oh shit, whaddup.");
+    res.send("It's dat boi!!!!! Suh Dude");
 });
 
 app.listen(3000, function () {
